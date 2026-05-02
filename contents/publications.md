@@ -1,6 +1,2 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
+- Indoor 3D Visual Grounding from a Single RGB Image
 

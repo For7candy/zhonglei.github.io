@@ -1,20 +1,22 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![For7candy](https://img.shields.io/badge/For7candy-github-blue?logo=github)](https://github.com/For7candy)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree at the Department of National Graduate College For Elite Engineers,
+Hunan University, ChangSha.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zl25362357@hnu.edu.cn</code>  
+
+[//]: # (<code>XX@XX.XX</code>)
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Hunan University**, Master of Engineering (2025 – 2028)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+[//]: # (• GPA: XX/XX  )
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Hunan Normal University**, Bachelor of Engineering (2021 – 2025) <br>
+• Major: Electronic and Information Engineering  <br>
+• GPA: 4.06/5.0  
+
 
 #### Research Interests  
-XX, XX, XX, XX.
+Visual Grounding, Computer Vision.
